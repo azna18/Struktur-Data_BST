@@ -1,0 +1,24 @@
+praktikum kali ini menggunakan AI chatGPT
+
+prompt awal sama seperti perintah yang ada di GC:
+    Buat program (Java & Python) menggunakan struktur data BST dengan fitur program terdiri dari: 
+    tambah data, cari data, hapus data, dan traversal (inorder, preorder, postorder).
+    Untuk testing program, inputkan seluruh data (id dan nama) yang ada dalam file excel berikut (terlampir bentuk excel)
+
+    Pilih: 1 
+    Exception in thread "main" 
+    java.lang.NumberFormatException: For input string: 
+    "5288;pensil" 
+        at 
+    java.base/java.lang.NumberFormatException.forInputString
+    (NumberFormatException.java:67) 
+        at 
+    java.base/java.lang.Integer.parseInt(Integer.java:565) 
+        at 
+    java.base/java.lang.Integer.parseInt(Integer.java:662) 
+        at BST.loadFromCSV(Main.java:47) 
+        at Main.main(Main.java:149) 
+    memang munculnya seperti ini atau aku yang error?
+karena muncul begitu yang merupakan file yang diupload harus berupa csv dan disimpan dengan folder yang sama dengan file ini
+
+mungkin kurang lebih begitu, bapak.. ada beberapa error ya hampir2 sama seperti yang saya cantumkan disitu..
