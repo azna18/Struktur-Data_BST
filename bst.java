@@ -1,9 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// ==========================================
-// BST DENGAN INPUT FILE CSV
-// ==========================================
 public class bst {
 
     // ===== NODE =====
